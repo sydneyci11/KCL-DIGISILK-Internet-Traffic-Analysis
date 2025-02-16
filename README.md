@@ -43,8 +43,11 @@ This research investigates the differences in internet traffic between Chinese a
 - Ideal for **formal presentations and deep-dive discussions**.
 
 ## 📜 License
-**CC0 1.0 Universal (Public Domain Dedication)**  
-This research and all associated materials (poster, presentation, findings) have been **dedicated to the public domain** and are **free for unrestricted use**.  
+This research is licensed under the **Creative Commons Attribution 4.0 International (CC-BY 4.0)**.  
+
+You are free to **share, adapt, and use the work for any purpose**, including commercial use, **as long as proper attribution is given**.  
+
+🔗 Full License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 📄 **[Full License Text](LICENSE)** 
 
