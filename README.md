@@ -41,3 +41,11 @@ This research investigates the differences in internet traffic between Chinese a
 ### 📘 **Presentation Slides** ([presentation.pdf](reports/KURF_Presentation.pdf))
 - A **detailed breakdown** of the research methodology and findings.
 - Ideal for **formal presentations and deep-dive discussions**.
+
+## 📜 License
+**CC0 1.0 Universal (Public Domain Dedication)**  
+This research and all associated materials (poster, presentation, findings) have been **dedicated to the public domain** and are **free for unrestricted use**.  
+
+📄 **[Full License Text](LICENSE)** 
+
+
