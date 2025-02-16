@@ -47,8 +47,6 @@ This research is licensed under the **Creative Commons Attribution 4.0 Internati
 
 You are free to **share, adapt, and use the work for any purpose**, including commercial use, **as long as proper attribution is given**.  
 
-🔗 Full License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
-📄 **[Full License Text](LICENSE)** 
+🔗 **[Full License Text](LICENSE):** [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 
 
